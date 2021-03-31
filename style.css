@@ -1,0 +1,35 @@
+body{
+    background-image: url(./546583.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    font-family: 'siams';
+    font-weight: 100;
+    color: lawngreen;
+    text-align: center;
+    text-shadow: 0px 0px 5px lawngreen;
+}
+@font-face{
+    font-family: 'siams';
+    src: url(./siams.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+h1{    
+    color: lawngreen;
+    text-align: center;
+    text-shadow: 0px 0px 5px lawngreen;
+    -webkit-text-security: square;
+}
+h2{
+    color: lawngreen;
+    text-align: center;
+    text-shadow: 0px 0px 30px lawngreen;
+    font-size: 130px;
+    margin-top: 0;
+}
+audio{
+    width: 1890px;
+    height: 12px;
+}
